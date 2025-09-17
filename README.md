@@ -123,32 +123,6 @@ Here is my LinkedIn: "[Karolyne Lima](https://www.linkedin.com/in/karolyne-lima-
 <br/>
 <br/>
 
-<p>
-
-### 📄 Works in Progress
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karolynelima&repo=KMProfessor&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karolynelima&repo=with-love&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-### 📊 Stats
-
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="250" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolynelima&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
-
-</p>
 
 
 
