@@ -6,13 +6,12 @@ Hello, my name is Karolyne. I am 27 years old, originally from Maceió - AL, and
 
 I'm passionate about front-end development, driven by my love for design, but I also have a strong appreciation and knowledge of back-end technologies.
 
-Here is my LinkedIn: "[Karolyne Lima](https://www.linkedin.com/in/karolyne-lima-168268204/)", where you can find more about my career and project updates.
+Here is my LinkedIn: [Karolyne Lima](https://www.linkedin.com/in/karolyne-lima-168268204/), where you can find more about my career and project updates.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/karolyne-mrlima/)
+<br>  
 
-### 🤖 Skills & Technologies
-
-
+## 🤖 Skills & Technologies
 
 <img 
     align="left" 
@@ -117,11 +116,15 @@ Here is my LinkedIn: "[Karolyne Lima](https://www.linkedin.com/in/karolyne-lima-
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-          
 
-<br/>
-<br/>
-<br/>
+<br>   
+<br>  
+<br>  
+
+## Projects
+
+[![with-love](https://github-readme-stats.vercel.app/api/pin/?username=karolynelima&repo=with-love&bg_color=000&border_color=FFF&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/karolynelima/with-love)
+[![KMProfessor](https://github-readme-stats.vercel.app/api/pin/?username=karolynelima&repo=KMProfessor&bg_color=000&border_color=FFF&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/karolynelima/with-love)
 
 
 
