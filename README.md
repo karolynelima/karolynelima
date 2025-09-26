@@ -124,7 +124,7 @@ Here is my LinkedIn: [Karolyne Lima](https://www.linkedin.com/in/karolyne-lima-1
 ## Projects
 
 [![with-love](https://github-readme-stats.vercel.app/api/pin/?username=karolynelima&repo=with-love&bg_color=000&border_color=FFF&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/karolynelima/with-love)
-[![KMProfessor](https://github-readme-stats.vercel.app/api/pin/?username=karolynelima&repo=KMProfessor&bg_color=000&border_color=FFF&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/karolynelima/with-love)
+[![KMProfessor](https://github-readme-stats.vercel.app/api/pin/?username=karolynelima&repo=KMProfessor&bg_color=000&border_color=FFF&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/karolynelima/KMProfessor)
 
 
 
