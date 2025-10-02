@@ -4,7 +4,11 @@
 
 Hello, my name is Karolyne. I am 27 years old, originally from Maceió - AL, and currently based in Feira de Santana - BA. I am a Computer Engineering undergraduate at the State University of Feira de Santana (UEFS).
 
-I'm passionate about front-end development, driven by my love for design, but I also have a strong appreciation and knowledge of back-end technologies.
+I'm a **Full-Stack Developer** passionate about front-end design, with solid experience building robust solutions.
+
+My core stack is **Java** (Back-end, often with Hibernate/Gradle) and **Angular/Ionic** (Front-end), complemented by proficiency in **MySQL**.
+
+I prioritize code quality, specializing in **Software Quality (QA)** and implementing **Cypress** for automated testing. I rely on **SCRUM/Kanban** for efficient, collaborative development.
 
 Here is my LinkedIn: [Karolyne Lima](https://www.linkedin.com/in/karolyne-lima-168268204/), where you can find more about my career and project updates.
 
@@ -12,6 +16,23 @@ Here is my LinkedIn: [Karolyne Lima](https://www.linkedin.com/in/karolyne-lima-1
 <br>  
 
 ## 🤖 Skills & Technologies
+
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 
 <img 
     align="left" 
@@ -45,23 +66,6 @@ Here is my LinkedIn: [Karolyne Lima](https://www.linkedin.com/in/karolyne-lima-1
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
 <img 
@@ -121,10 +125,11 @@ Here is my LinkedIn: [Karolyne Lima](https://www.linkedin.com/in/karolyne-lima-1
 <br>  
 <br>  
 
-## Projects
+## Current Projects
 
 [![with-love](https://github-readme-stats.vercel.app/api/pin/?username=karolynelima&repo=with-love&bg_color=000&border_color=FFF&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/karolynelima/with-love)
 [![KMProfessor](https://github-readme-stats.vercel.app/api/pin/?username=karolynelima&repo=KMProfessor&bg_color=000&border_color=FFF&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/karolynelima/KMProfessor)
+[![SPA-Responsivo-para-Tutoriais](https://github-readme-stats.vercel.app/api/pin/?username=karolynelima&repo=SPA-Responsivo-para-Tutoriais&bg_color=000&border_color=FFF&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/karolynelima/SPA-Responsivo-para-Tutoriais)
 
 
 
